@@ -10,7 +10,7 @@ Software QA Analyst
 * ✉️  You can contact me at [rkrishnaelango@gmail.com](mailto:rkrishnaelango@gmail.com)
 * 🧠  I'm learning Appium & jenkins, SQL
 * 🤝  I'm open to collaborating on Software QA Test Manual & Automation
-* ⚡  Jobless Currently
+* ⚡  Freelancer
 
 ### Skills
 
